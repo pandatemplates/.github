@@ -1,11 +1,14 @@
 ## Hi 👋, We're Panda Templates
 
-Panda Templates develops and distribute professional Blogger Templates. We are dedicated to giving you professional and SEO-optimized Blogger Templates.
+At Panda Templates 🐼, we're passionate about crafting and sharing top-notch [blogger templates](https://www.pandatemplates.com/). We're on a mission to hook you up with designs that not only look sleek and professional but are also super seo-friendly.
 
-**Here are some responsive blogger templates we made:**
+Count on us to give your blog that polished and optimized touch! ✨
 
+**Explore our best blogger templates:**
+
+- [Pezen - Responsive Blogger Template](https://www.pandatemplates.com/2023/09/perzen-blogger-template.html)
 - [Pexum - Responsive Blogger Template](https://www.pandatemplates.com/2023/01/pexum-blogger-template.html)
-- [Magus - Professional News & Magazine Blogger Template](https://www.pandatemplates.com/2023/01/magus-blogger-template.html)
+- [Magus - Professional Magazine Blogger Template](https://www.pandatemplates.com/2023/01/magus-blogger-template.html)
 - [Ritima - Responsive Blogger Template](https://www.pandatemplates.com/2023/01/ritima-blogger-template.html)
 
 <h3>Connect with us:</h3>
